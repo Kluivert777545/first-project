@@ -10,7 +10,7 @@ The Coding Club website is a landing page for parents and children looking for a
 4. Contact section
 
 ## How to View the Project
-- [View the deployed website](https://username.github.io/codingclub/)
+- [View the deployed website](https://kluivert777545.github.io/first-project/)
 
 ## Credits
 - The code for the social media icon animations was taken from [website name](https://username2.github.io/projectname/)
